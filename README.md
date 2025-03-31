@@ -1,5 +1,5 @@
 ## Hi there 👋
-**I'm Okoye Kosi**
+**I'm Kosi Okoye**
 
 🔭 Building native android apps to solve my everyday problems.
 
