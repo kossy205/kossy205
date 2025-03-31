@@ -9,9 +9,11 @@
 
 💬 Ask me about Kotlin, Android, Tecnology, geo politics and WW2.
 
-📫 Reach me: hillarykossy1@gmail.com
+📫 Reach me: **hillarykossy1@gmail.com**, **[LinkedIn](https://www.linkedin.com/in/kosisohillarydev/) and [X(Twitter)](https://x.com/KosiOkoye_)**
 
 📄 My CV [https://drive.google.com/file/d/1J6J28mPF_CbKU9RbkJYLeEOUQlg4Q0LX/view?usp=drivesdk](https://drive.google.com/file/d/1NVeiPpEynPiJ6rzp4PowE5qXNzF76jCf/view?usp=sharing)
+
+✨ Socials: X(Twitter) and LinkedIn
 
 😄 Fun fact: I'd love to drive a tank :)
 
