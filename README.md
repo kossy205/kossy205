@@ -12,7 +12,7 @@
 
 📄 My CV [https://drive.google.com/file/d/1J6J28mPF_CbKU9RbkJYLeEOUQlg4Q0LX/view?usp=drivesdk](https://drive.google.com/file/d/1NVeiPpEynPiJ6rzp4PowE5qXNzF76jCf/view?usp=sharing)
 
-😄 Fun fact: I'd love to drive a tank :)
+👯 Open to collaborate on any Kotlin or Android based projects.
 
 <!--
 **kossy205/kossy205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
