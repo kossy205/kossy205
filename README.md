@@ -7,7 +7,7 @@
 
 🌱 I am my first user :)
 
-💬 Ask me about technology, Kotlin, Android, geo politics and WW2.
+💬 Ask me about Kotlin, Android, Tecnology, geo politics and WW2.
 
 📫 Reach me: hillarykossy1@gmail.com
 
