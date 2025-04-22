@@ -10,7 +10,7 @@
 
 📫 Reach me: **hillarykossy1@gmail.com**, **[LinkedIn](https://www.linkedin.com/in/kosisohillarydev/) and [X(Twitter)](https://x.com/KosiOkoye_)**
 
-📄 My CV [https://drive.google.com/file/d/1J6J28mPF_CbKU9RbkJYLeEOUQlg4Q0LX/view?usp=drivesdk](https://drive.google.com/file/d/1NVeiPpEynPiJ6rzp4PowE5qXNzF76jCf/view?usp=sharing)
+📄 My resume [https://drive.google.com/file/d/1J6J28mPF_CbKU9RbkJYLeEOUQlg4Q0LX/view?usp=drivesdk](https://drive.google.com/file/d/1NVeiPpEynPiJ6rzp4PowE5qXNzF76jCf/view?usp=sharing)
 
 👯 Open to collaborate on Kotlin or Android based projects.
 
