@@ -2,7 +2,7 @@
 
 🔭 Building native android apps to solve my everyday problems.
 
-👨‍💻 Currently working on a SmartCount app to help ushers in churches and big events.
+👨‍💻 Currently working on a SmartCount app to help ushers in churches and big events count attendees easily.
 
 🌱 I am my first user :)
 
